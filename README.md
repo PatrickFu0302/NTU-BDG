@@ -8,3 +8,9 @@ Source Data:
 - Weather data from Central Weather Bureau
 - Course schedule in NTU
 - Network traffic flow in NTU
+
+Lack:
+- Floor area
+- Structure of electricity system
+- Contract capacity
+- E
