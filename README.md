@@ -13,4 +13,4 @@ Lack:
 - Floor area
 - Structure of electricity system
 - Contract capacity
-- E
+- Electricity bill
